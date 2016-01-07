@@ -82,7 +82,8 @@ img {
 }
 
 .navbar a:hover {
-  background: #6357a0 !important;
+  /*background: #6357a0 !important;*/
+  background: #2A3B7E !important;
 }
 
 .navbar-brand {
