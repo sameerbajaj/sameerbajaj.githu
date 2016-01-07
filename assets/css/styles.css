@@ -6,7 +6,7 @@
 
 body {
   font-family: 'MyriadPro';
-  background: linear-gradient(#3F51B5,#3F51B5, #3F51B5);
+  background: linear-gradient(#FF9D57,#FF9D57, #FF9D57);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -130,7 +130,7 @@ img {
 }
 
 .avatar {
-  width: 185px;
+  width: 200px;
   height: 200px;
   border: 4px solid #f4f4f4;
   border-radius: 10rem;
