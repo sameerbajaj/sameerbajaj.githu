@@ -8,7 +8,7 @@ module.exports = function (grunt) {
                 livereload: true
             },
             html: {
-                files: ['index.html', '*.html', 'assets/**', 'css/**', 'img/**']
+                files: ['index.html', '*.html', 'assets/**', 'css/**', 'img/**', '*/*.*']
             }
         },
         // Run a connect server with livereload on http://0.0.0.0:8888
