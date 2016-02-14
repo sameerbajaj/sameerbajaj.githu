@@ -84,7 +84,7 @@ header {
 }
 
 header .container {
-    padding-top: 100px;
+    padding-top: 120px;
     padding-bottom: 50px;
 }
 
@@ -108,8 +108,8 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 200px;
-        padding-bottom: 100px;
+        padding-top: 110px;
+        padding-bottom: 120px;
     }
 
     header .intro-text .name {
@@ -149,10 +149,10 @@ header .intro-text .skills {
 
 
 .avatar {
-    width: 250px;
-    height: 250px;
+    width: 220px;
+    height: 220px;
     border: 2px solid #f4f4f4;
-    border-radius: 15rem;
+    border-radius: 13rem;
 }
 
 #social {
